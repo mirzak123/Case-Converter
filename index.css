@@ -1,0 +1,10 @@
+textarea {
+    width: 90vw;
+    height: 70vh;
+    font-size: 1rem;
+}
+
+button {
+    background-color: orange;
+    border-color: orange;
+}
